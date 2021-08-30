@@ -135,9 +135,25 @@ $$
 texto
 ---
 
+## Imagens
 
+![image](file://Images/strogonoff-de-frango.jpg)
 
+---
 
+![image info](file://Images/strogonoff-de-frango.jpg "Texto")
+
+---
+
+![alt text](file://Images/strogonoff-de-frango.jpg "Title")
+
+---
+
+![title](file://Images/strogonoff-de-frango.jpg "Title")
+
+---
+
+![Car Image](file://Images/strogonoff-de-frango.jpg "Title")
 
 
 
