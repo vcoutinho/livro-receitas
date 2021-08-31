@@ -155,6 +155,17 @@ texto
 
 ![Car Image](file://Images/strogonoff-de-frango.jpg "Title")
 
+----
+
+#### Alterando o tamanho da imagem
+
+<img src="file://Images/strogonoff-de-frango.jpg" alt="strogonoff" style="width:100px;"/>
+
+ou
+
+
+![image](file://Images/strogonoff-de-frango.jpg =100x100)
+
 
 
 
