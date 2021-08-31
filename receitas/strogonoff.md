@@ -1,10 +1,29 @@
+
+
+<p align="center">
+<img src="file:///../imagens/strogonoff-de-frango.jpg" alt="strogonoff-de-frango" width="150px" align="center" />
+
 # Strogonoff de Frango
+</p>
 
-Ingredientes
+---
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<br/>
 
-Modo de Preparo
+> ### Ingredientes
+>
+> - xxxxxxxx 
+> - xxxxxxx xxxxx
+> - xxxxxxxxxxx 
+> - xxxxxxxxx 
+> - xxxxxxxx 
+> - xxxxxxxxxx
+>
+> ### Modo de Preparo
+>
+>> xxxxxxxxxxxxx xxxxxxxxxxxxxxxx xxxxxxxxxxxx xxxxxxxxxxxx xxxxxxxxxxx xxxxxxxxx xxxxxxxxxx xxxxxxxxx xxxxxxxx xxxxx xxxxxxxxx xxxxx xxxxxxxxxx xxxxxxxxxxx xxxxxxxx xxxxxxxxxx.
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+>> xxxxxxxxxxxxx xxxxxxxxxxxxxxxx xxxxxxxxxxxx xxxxxxxxxxxx xxxxxxxxxxx xxxxxxxxx xxxxxxxxxx xxxxxxxxx xxxxxxxx xxxxx xxxxxxxxx xxxxx xxxxxxxxxx xxxxxxxxxxx xxxxxxxx xxxxxxxxxx.
+
+>> xxxxxxxxxxxxx xxxxxxxxxxxxxxxx xxxxxxxxxxxx xxxxxxxxxxxx xxxxxxxxxxx xxxxxxxxx xxxxxxxxxx xxxxxxxxx xxxxxxxx xxxxx xxxxxxxxx xxxxx xxxxxxxxxx xxxxxxxxxxx xxxxxxxx xxxxxxxxxx.
 
